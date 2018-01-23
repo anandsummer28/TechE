@@ -1,0 +1,152 @@
+body {
+	margin: 0;
+	background: #BEAEFD;
+}
+
+.box {
+	height: 60px;
+	width: 100%;
+	margin: 0;
+	background: lightgrey;	
+	position: fixed;
+}
+
+.logo {
+	height: 80px;
+	position: absolute;
+	top: 30px;
+	left: 20px;
+}
+
+nav li {
+	display: inline;
+	margin-left: 5%;
+	text-shadow: 2px 1px white;
+	padding-left: 5%;
+}
+
+.snippet {
+	height: 100%;
+}
+
+.heading, .heading a {
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 0;
+	border: 1px solid black;
+	background: black;
+	color: white;	
+}
+
+.star {
+	height: 50%;
+	width: 79%;
+	border: 1px dotted black;
+	border-bottom: 2px solid yellow;
+	padding: 10%;
+}
+
+a {
+	text-decoration: none;
+}
+
+form {
+	display: inline;
+}
+
+nav {
+	float: center;
+}
+
+
+.scorll {
+	height: 300px;
+	overflow: scroll hidden;
+}
+
+.underline {
+	background: blue;
+	text-align: center;
+	color: white;
+	font-family: 'Cuprum', sans-serif;
+	font-size: 30px;
+	padding:0;
+
+}
+
+.wrap {
+	background: white;
+	padding-top: 90px;
+	margin: 0;
+	font-size: 110%;
+}
+
+.copyright {
+	line-height: 65%;
+ 	background: #660000;
+ 	height: 160px;
+ 	margin-top:0;
+ 	margin-left:-3px;
+ 	border:1px solid #fff;
+ 	text-align: center;
+}
+
+.fontstyle, .fontstyle li a {
+	font-size: 30px;
+	color: white;
+
+}
+
+.fontstyle li {
+	display: inline;
+	color: white;
+}
+
+.last, .last a {
+	color: white; 
+}
+
+.follow {
+	font-size:15px; 
+	color:white; 
+	margin-top:10px; 
+	bottom:0;
+}
+
+.line {
+	background: #EDE8FF;
+	margin: 3px 2px;
+	padding-top: 3px;
+	margin-top: 3px;
+	border: .05px white #D3D3D3;
+	border-bottom: 1px solid blue;
+	padding-bottom: 4px;
+}
+
+.line a {
+	color: black;
+	font-weight: bold;
+}
+
+
+.font {
+	font-family: 'Cuprum', sans-serif;
+	text-shadow: 1px 1px 0 blue;
+	font-size: 40px;
+	font-style: bold;
+}
+
+.nonhero {
+	padding-top: 4px;
+	height: auto;
+	width: 960px;
+}
+
+.introimg {
+	width: 100%;
+}
+
+blockquote p {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 15px;
+}
